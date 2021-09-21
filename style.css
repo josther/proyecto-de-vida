@@ -1,0 +1,17 @@
+body{
+    background: crimson;
+}
+
+h1, h2{
+    color: cyan;
+}
+
+p{
+    color: cyan;
+    font-size: 30px;
+}
+
+ul{
+    color: cyan;
+    font-size: 30px;
+}
